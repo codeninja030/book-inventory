@@ -17,7 +17,7 @@ The project is a book inventory system built with [Laravel 8](https://laravel.co
 Clone the repository to your local machine by running the terminal command below.
 
 ```bash
-git clone https://github.com/Ojsholly/book-inventory
+git clone https://github.com/tmoodley2/book-inventory
 ```
 
 ### Setup Database
